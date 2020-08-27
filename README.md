@@ -40,6 +40,6 @@ http://ocmr.rappi4b.surge.sh/
 <kbd>
 <img src='https://raw.githubusercontent.com/OsmanRodrigues/rappi4b_web/clone/views/mobile_rappi4b(3).png' width='auto' heigth='auto'>
 </kbd>
-<br>
+<br><br>
 Este repositório é um clone de outro que possui propriedade compartilhada com o autor.
 <a href='https://github.com/future4code/julian-rappi4B'>Link do repositório original</a>
