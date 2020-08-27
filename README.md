@@ -1,7 +1,7 @@
 # Rappi4B <img src='https://raw.githubusercontent.com/OsmanRodrigues/rappi4b_web/clone/src/assets/logo-future-eats-invert%402x.png' width='96' heigth='48' display='inline'>
 
 ## Descrição
-A Rappi4B é uma aplicação web mobile-first baseada na interface do Rappi, desenvolvida como projeto de conclusão do módulo de Front-End do bootcamp da Labenu, o qual foi desenvolvido em grupo. É um projeto para fins de estudo, testes de técnicas de front-end e aperfeiçoamento de demais habilidades necessárias ao Desenvolvimento de Software.
+A Rappi4B é uma aplicação web mobile-first baseada na interface do Rappi, desenvolvida como projeto de conclusão do módulo de Front-End do bootcamp da Labenu, o qual foi desenvolvido em grupo. É um projeto para fins de estudo, testes de técnicas e aperfeiçoamento de demais habilidades necessárias ao Desenvolvimento de Software.
 
 ## Tecnologias principais
 <li>HTML, CSS e JavaScript</li>     
@@ -21,7 +21,6 @@ http://ocmr.rappi4b.surge.sh/
 
 ## Telas
 
-### Mobile
 #### Entrar e Cadastrar
 <kbd>
 <img src='https://raw.githubusercontent.com/OsmanRodrigues/rappi4b_web/clone/views/mobile_rappi4b.png' width='auto' heigth='auto'>
