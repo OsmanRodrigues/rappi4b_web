@@ -9,7 +9,7 @@ A Rappi4B é uma aplicação web mobile-first baseada na interface do Rappi, des
 ## Tecnologias auxiliares
 <li>Biblioteca principal: React.js;</li>
 <li>Estilização: Styled Components e React Icons;</li> 
-<li>API: AWS S3;</li>
+<li>API: AWS API Gateway;</li>
 <li>Requisições HTTP: Axios;</li>
 <li>Variáveis de ambiente: Dotenv;</li>
 <li>Testes React: Jest.</li>
